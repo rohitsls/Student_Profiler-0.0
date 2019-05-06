@@ -35,11 +35,12 @@ Baseline results for different modeles. Models were run on Scikit Learn -0.20.0.
  
 
  ## Authors 
- Abhor Gupta  
+Rohit Kar
+
+Abhor Gupta  
  
+Ashitabh Misra  
  
- Ashitabh Misra  
- 
- Rohit Kar  
+
  
  
